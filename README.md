@@ -1,15 +1,30 @@
 # Web3 Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 12/17/2024
+This data is updated weekly, with filled postings removed. Last updated: 01/02/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Web3 Jobs](https://algojobs.io/jobs/web3)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 12/31/2024 | [Blockchain Developer](https://algojobs.io/jobs/2694289) | [OKX](https://algojobs.io/company/okx/) | N/A | Singapore, Singapore |
+| 12/29/2024 | [Senior Software Engineer, Data Platforms](https://algojobs.io/jobs/2689982) | [Mysten Labs](https://algojobs.io/company/mystenlabs/) | N/A | USA (Remote) |
+| 12/27/2024 | [Software Engineer - Python](https://algojobs.io/jobs/2685912) | [Hunch](https://algojobs.io/company/hunchin/) | N/A | New Delhi |
+| 12/27/2024 | [Quant Developer](https://algojobs.io/jobs/2685913) | [Hunch](https://algojobs.io/company/hunchin/) | N/A | New Delhi |
+| 12/23/2024 | [Senior Software Engineer, Enclave](https://algojobs.io/jobs/2665810) | [Avalanche Ecosystem](https://algojobs.io/company/avalabsecosystem/) | $142K - $178K | Remote (Global) |
+| 12/22/2024 | [Software Engineer, Professional Services](https://algojobs.io/jobs/2662559) | [Fireblocks](https://algojobs.io/company/fireblocks/) | N/A | Tel Aviv-Yafo, Tel Aviv District, Israel |
+| 12/20/2024 | [Senior Software Engineer, Data Availability](https://algojobs.io/jobs/2653336) | [Figment](https://algojobs.io/company/figment/) | $140K - $170K | Canada |
+| 12/19/2024 | [Software Engineer](https://algojobs.io/jobs/2640473) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $124K - $147K | USA (Remote) |
+| 12/19/2024 | [Senior Software Engineer (Go/Blockchain) - OP01575-OS](https://algojobs.io/jobs/2638128) | [Dev.Pro](https://algojobs.io/company/devpro/) | N/A | Wrocław, Lower Silesian Voivodeship, Poland (Remote) |
+| 12/18/2024 | [Senior Software Engineer, React (Blockchain & Custody)](https://algojobs.io/jobs/2627300) | [Bitpanda](https://algojobs.io/company/bitpanda/) | N/A | București, Bucharest, Romania |
+| 12/18/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2627829) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $185K - $185K | Remote - Canada |
+| 12/18/2024 | [Developer Relations Engineer, Europe](https://algojobs.io/jobs/2626790) | [Ava Labs](https://algojobs.io/company/avalabs/) | $116K - $145K | Remote (Europe) |
+| 12/18/2024 | [Software Engineer Intern - Ledger Enterprise Services (f/m)](https://algojobs.io/jobs/2626130) | [Ledger](https://algojobs.io/company/ledger/) | $800 - $1500 | Paris, France (Hybrid) |
+| 12/18/2024 | [Senior Software Engineer, Risk & Compliance](https://algojobs.io/jobs/2615762) | [Chainalysis](https://algojobs.io/company/chainalysis-careers/) | N/A | Ontario |
+| 12/18/2024 | [Frontend Engineer](https://algojobs.io/jobs/2629172) | [Magic Eden](https://algojobs.io/company/magiceden/) | N/A | Beijing |
+| 12/18/2024 | [Backend Engineer](https://algojobs.io/jobs/2629174) | [Magic Eden](https://algojobs.io/company/magiceden/) | N/A | Beijing |
+| 12/17/2024 | [Senior Python Backend Engineer, Blockchain](https://algojobs.io/jobs/2613677) | [Fireblocks](https://algojobs.io/company/fireblocks/) | N/A | Tel Aviv-Yafo, Tel Aviv District, Israel |
 | 12/16/2024 | [Web3 Security Senior Software Engineer](https://algojobs.io/jobs/2598481) | [Binance](https://algojobs.io/company/binance/) | N/A | Asia / Taiwan, Taipei (Remote) |
 | 12/16/2024 | [Scala Backend Engineer - Internship](https://algojobs.io/jobs/2598571) | [Ledger](https://algojobs.io/company/ledger/) | N/A | Paris, France (Hybrid) |
-| 12/13/2024 | [Quant Developer](https://algojobs.io/jobs/2585798) | [Hunch](https://algojobs.io/company/hunchin/) | N/A | New Delhi |
-| 12/13/2024 | [Software Security Engineer Intern (f/m) (6 months)](https://algojobs.io/jobs/2585238) | [Ledger](https://algojobs.io/company/ledger/) | $800 - $1500 | Paris, France |
 | 12/12/2024 | [Software Engineer, Javascript (Smart Wallet/Web3)](https://algojobs.io/jobs/2573356) | [Bitpanda](https://algojobs.io/company/bitpanda/) | N/A | Vienna, Vienna, Austria |
 | 12/12/2024 | [Senior Developer Relations Engineer](https://algojobs.io/jobs/2575987) | [Nexus](https://algojobs.io/company/nexus.xyz/) | N/A | San Francisco |
 | 12/12/2024 | [Senior Backend Engineer](https://algojobs.io/jobs/2571949) | [Seedify](https://algojobs.io/company/seedify-fund/) | N/A | Europe (Remote) |
@@ -26,7 +41,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/09/2024 | [Staff Software Engineer, Backend - Crypto Data Foundations](https://algojobs.io/jobs/2534936) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $211K - $249K | USA (Remote) |
 | 12/09/2024 | [Principal EVM Software Engineer - Smart Contracts Team](https://algojobs.io/jobs/2535669) | [Hashgraph](https://algojobs.io/company/swirlds/) | N/A | Remote within the US |
 | 12/09/2024 | [Software Engineer Intern - Ledger Enterprise Services (f/m)](https://algojobs.io/jobs/2533529) | [Ledger](https://algojobs.io/company/ledger/) | $800 - $1500 | Paris, France (Hybrid) |
-| 12/06/2024 | [Software Engineer - Python](https://algojobs.io/jobs/2519630) | [Hunch](https://algojobs.io/company/hunchin/) | N/A | New Delhi |
 | 12/06/2024 | [Software Engineer, Full Stack](https://algojobs.io/jobs/2522308) | [Mysten Labs](https://algojobs.io/company/mystenlabs/) | N/A | USA (Remote) |
 | 12/06/2024 | [Forward Deployed Software Engineer](https://algojobs.io/jobs/2522383) | [Privy](https://algojobs.io/company/privy/) | N/A | New York |
 | 12/05/2024 | [iOS Developer](https://algojobs.io/jobs/2505291) | [Hyphen Connect Limited](https://algojobs.io/company/hyphenconnect/) | N/A | Taiwan |
@@ -85,14 +99,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/04/2024 | [Staff Software Engineer - RISC-V](https://algojobs.io/jobs/2132281) | [Trilitech](https://algojobs.io/company/trilitech/) | N/A | London |
 | 11/04/2024 | [Senior Software Engineer - RISC-V](https://algojobs.io/jobs/2132282) | [Trilitech](https://algojobs.io/company/trilitech/) | N/A | London |
 | 11/04/2024 | [Senior Software Engineer, Data Feeds](https://algojobs.io/jobs/2132373) | [Chainlink Labs](https://algojobs.io/company/chainlink-labs/) | N/A | United States / Remote |
-| 11/02/2024 | [Software Engineer, Infrastructure - Platform (Datastores)](https://algojobs.io/jobs/2120837) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $147K - $174K | USA (Remote) |
-| 11/02/2024 | [Software Engineer, Infrastructure - Platform (Datastores)](https://algojobs.io/jobs/2120838) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $149K - $149K | Remote - Canada |
-| 10/31/2024 | [Senior Backend Engineer, Unichain](https://algojobs.io/jobs/2112319) | [Uniswap Labs](https://algojobs.io/company/uniswaplabs/) | $210K - $232K | New York or US-based Remote  |
-| 10/30/2024 | [Staff Software Engineer, Bridge](https://algojobs.io/jobs/2102254) | [Ava Labs](https://algojobs.io/company/avalabs/) | $190K - $238K | New York, NY |
-| 10/24/2024 | [Developer Relations - Network Infrastructure](https://algojobs.io/jobs/2067196) | [Aztec](https://algojobs.io/company/aztec/) | N/A | Global Remote |
-| 10/24/2024 | [Developer Advocate - Sustainability, Americas](https://algojobs.io/jobs/2067226) | [Hashgraph](https://algojobs.io/company/swirlds/) | N/A | Remote within the US |
-| 10/24/2024 | [Backend Engineer](https://algojobs.io/jobs/2064713) | [Seedify](https://algojobs.io/company/seedify-fund/) | N/A | Remote |
-| 10/24/2024 | [Backend Engineer](https://algojobs.io/jobs/2064714) | [Seedify](https://algojobs.io/company/seedify-fund/) | N/A | India (Remote) |
-| 10/24/2024 | [Senior Frontend Engineer](https://algojobs.io/jobs/2064715) | [Seedify](https://algojobs.io/company/seedify-fund/) | N/A | Philippines (Remote) |
-| 10/23/2024 | [Software Engineer Intern](https://algojobs.io/jobs/2047611) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $50 - $50 | San Francisco, CA |
-| 10/22/2024 | [Lead/Senior Software Engineer (Payments)](https://algojobs.io/jobs/2037653) | [Menyala](https://algojobs.io/company/menyala/) | N/A | Singapore |
