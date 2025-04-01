@@ -1,11 +1,13 @@
 # Web3 Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 03/29/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/01/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Web3 Jobs](https://algojobs.io/jobs/web3)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 03/31/2025 | [Senior Software Engineer, Backend](https://algojobs.io/jobs/3641031) | [Validation Cloud](https://algojobs.io/company/validationcloud/) | N/A | Remote |
+| 03/31/2025 | [Staff Software Engineer, Alterya](https://algojobs.io/jobs/3642534) | [Chainalysis](https://algojobs.io/company/chainalysis-careers/) | N/A | Tel Aviv Office |
 | 03/27/2025 | [Senior Software Engineer, Backend (Platform - Crypto Data Foundations)](https://algojobs.io/jobs/3595905) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $186K - $218K | USA (Remote) |
 | 03/27/2025 | [Senior Android Developer - Onchain Wallet](https://algojobs.io/jobs/3594111) | [Crypto.com](https://algojobs.io/company/crypto/) | N/A | Hong Kong, Hong Kong SAR (Hybrid) |
 | 03/26/2025 | [Software Engineering Lead - Lace](https://algojobs.io/jobs/3592302) | [IO Global](https://algojobs.io/company/io-global/) | N/A | United Kingdom (Remote) |
@@ -106,10 +108,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/03/2025 | [Backend / Research Engineer (Toolings), Web3 Data Indexing](https://algojobs.io/jobs/3031344) | [Hyphen Connect Limited](https://algojobs.io/company/hyphenconnect/) | N/A | Hong Kong |
 | 02/03/2025 | [Senior Front End Software Engineer](https://algojobs.io/jobs/3309408) | [Halliday](https://algojobs.io/company/halliday/) | $150K - $250K | San Francisco  |
 | 02/03/2025 | [Sr Software Developer](https://algojobs.io/jobs/3104576) | [Hatch IT](https://algojobs.io/company/hatchit/) | N/A | Boston, MA (Hybrid) |
-| 01/31/2025 | [Software Engineer](https://algojobs.io/jobs/3309143) | [Lorikeet](https://algojobs.io/company/lorikeet/) | N/A | Sydney, Australia HQ |
-| 01/31/2025 | [Staff Software Engineer (React Native Application)](https://algojobs.io/jobs/3018294) | [Ephemera](https://algojobs.io/company/ephemera/) | $250K - $280K | Remote (Bay Area) |
-| 01/31/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3309137) | [Lorikeet](https://algojobs.io/company/lorikeet/) | N/A | Sydney, Australia HQ |
-| 01/30/2025 | [Senior Software Engineer, Backend (Developer - Onramp)](https://algojobs.io/jobs/3002505) | [Coinbase Developer Platform](https://algojobs.io/company/cdpjobs/) | $186K - $218K | USA (Remote) |
-| 01/30/2025 | [Senior Software Security Engineer (f/m)](https://algojobs.io/jobs/3000808) | [Ledger](https://algojobs.io/company/ledger/) | N/A | Paris, France |
-| 01/30/2025 | [Staff Software Security Engineer - Web 3.0 (f/m)](https://algojobs.io/jobs/3000811) | [Ledger](https://algojobs.io/company/ledger/) | N/A | Paris, France |
-| 01/29/2025 | [Web3 Technical Lead (Fullstack)](https://algojobs.io/jobs/3336008) | [Legitimate](https://algojobs.io/company/legitimatetech/) | $180K - $230K | New York, NY (Remote) |
